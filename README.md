@@ -6,8 +6,7 @@
 - Python
 - HTML, CSS, NodeJS 
 
-Let's build something amazing together! 
-
+**Let's build something amazing together! **
 
 <!--
 **anacanttu/anacanttu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
