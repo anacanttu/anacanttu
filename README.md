@@ -3,7 +3,6 @@
 **🚀 My journey into technology began as a teenager with a love for robotics, which led me to win awards at the First Robotics Competition in both Canada and the USA. I am currently specializing in Artificial Intelligence.**
 
 🎨 **Languages and Tools:**
-
 - **Python**:
 - **HTML, CSS, NodeJS**: 
 
