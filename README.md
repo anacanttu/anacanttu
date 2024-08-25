@@ -1,12 +1,12 @@
 ### Hi, I'm Ana! 👋
 
-🚀 My journey into technology began as a teenager with a love for robotics, which led me to win awards at the First Robotics Competition in both Canada and the USA. I am currently specializing in Artificial Intelligence.
+My journey into technology began as a teenager with a love for robotics, which led me to win awards at the First Robotics Competition in both Canada and the USA. I am currently specializing in Artificial Intelligence.🤖
 
 ### Languages and Tools: 🎨
 - Python
 - HTML, CSS, NodeJS 
 
-**Let's build something amazing together!**
+**Let's build something amazing together! 🚀**
 
 <!--
 **anacanttu/anacanttu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
